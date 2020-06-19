@@ -1,0 +1,17 @@
+{
+  "name": "my-sign",
+  "displayName": "my-sign",
+  "expo": {
+    "name": "my-sign",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
